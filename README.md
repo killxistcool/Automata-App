@@ -11,11 +11,51 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
+- [Roadmap](#compass-roadmap)
 - [FAQ](#grey_question-faq)
 - [Contact](#handshake-contact)
 
 
 ## :star2: About the Project
+
+### :camera: Screenshots
+<div align="center"> <a href=""><img src="https://i.ibb.co/r2CX9cMP/Demo-Automata.png" alt='image' width='800'/></a> </div>
+
+
+### :space_invader: Tech Stack
+<details> <summary>Client</summary> <ul>
+<li><a href="https://www.swift.org">Swift</a></li>
+<li><a href="https://developer.apple.com/xcode/swiftui/">SwiftUI</a></li>
+<li><a href="https://developer.apple.com/documentation/appkit">AppKit</a></li>
+<li><a href="https://developer.apple.com/documentation/usernotifications">UserNotifications</a></li>
+<li><a href="https://developer.apple.com/documentation/servicemanagement">ServiceManagement</a></li>
+</ul> </details>
+<details> <summary>Database</summary> <ul>
+<li><a href="https://developer.apple.com/documentation/swiftdata">SwiftData</a></li>
+</ul> </details>
+<details> <summary>DevOps</summary> <ul>
+<li><a href="https://developer.apple.com/xcode/">Xcode</a></li>
+<li><a href="https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/Introduction.html">launchd</a></li>
+<li><a href="https://github.com">GitHub</a></li>
+</ul> </details>
+
+### :dart: Features
+- Automation Builder
+- Native Scheduling
+- Run History Log
+- One-Click Run
+- Pinning
+- Smart Notifications
+- Folders & Organization
+- Customizable Settings
+- Search
+- Polished Native UI
+
+
+## :compass: Roadmap
+
+* [x] Add a bigger variety of triggers
+
 
 ## :grey_question: FAQ
 
