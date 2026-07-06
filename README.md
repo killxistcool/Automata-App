@@ -8,7 +8,7 @@
 
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
+# 📔 Table of Contents
 
 - [About the Project](#star2-about-the-project)
 - [Roadmap](#compass-roadmap)
@@ -16,13 +16,13 @@
 - [Contact](#handshake-contact)
 
 
-## :star2: About the Project
+## 🌟 About the Project
 
-### :camera: Screenshots
+### 📷 Screenshots
 <div align="center"> <a href=""><img src="https://i.ibb.co/r2CX9cMP/Demo-Automata.png" alt='image' width='800'/></a> </div>
 
 
-### :space_invader: Tech Stack
+### 👾 Tech Stack
 <details> <summary>Client</summary> <ul>
 <li><a href="https://www.swift.org">Swift</a></li>
 <li><a href="https://developer.apple.com/documentation/appkit">AppKit</a></li>
@@ -39,7 +39,7 @@
 <li><a href="https://github.com">GitHub</a></li>
 </ul> </details>
 
-### :dart: Features
+### 🎯 Features
 - Automation Builder
 - Native Scheduling
 - Run History Log
@@ -52,12 +52,12 @@
 - Polished Native UI
 
 
-## :compass: Roadmap
+## 🧭 Roadmap
 
 * [x] Add a bigger variety of triggers
 
 
-## :grey_question: FAQ
+## ❔ FAQ
 
 - Is Automata free to use?
 - Yes, and it’ll most likely stay that way.
@@ -73,8 +73,8 @@
 - Open an issue on the GitHub repo’s Issues tab or join the Discord server.
 
 
-## :handshake: Contact
+## 🤝 Contact
 
-Flawless - [@discord_handle]([https://www.youtube.com/watch?v=K2FN_6KQ0XE](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)) - flawlesspurpleman@gmail.com
+Flawless - [@discord_handle](<https://discord.com/users/1426598835437699254>) - flawlesspurpleman@gmail.com
 
 Project Link: [https://github.com/killxistcool/Automata-App](https://github.com/killxistcool/Automata-App)
