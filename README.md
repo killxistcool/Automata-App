@@ -25,10 +25,10 @@
 ### :space_invader: Tech Stack
 <details> <summary>Client</summary> <ul>
 <li><a href="https://www.swift.org">Swift</a></li>
-<li><a href="https://developer.apple.com/documentation/swiftui">SwiftUI</a></li>
 <li><a href="https://developer.apple.com/documentation/appkit">AppKit</a></li>
 <li><a href="https://developer.apple.com/documentation/usernotifications">UserNotifications</a></li>
 <li><a href="https://developer.apple.com/documentation/servicemanagement">ServiceManagement</a></li>
+<li><a href="https://developer.apple.com/documentation/swiftui">SwiftUI</a></li>
 </ul> </details>
 <details> <summary>Database</summary> <ul>
 <li><a href="https://developer.apple.com/documentation/swiftdata">SwiftData</a></li>
@@ -75,6 +75,6 @@
 
 ## :handshake: Contact
 
-Flawless - - flawlesspurpleman@gmail.com
+Flawless - [@discord_handle]([https://www.youtube.com/watch?v=K2FN_6KQ0XE](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)) - flawlesspurpleman@gmail.com
 
 Project Link: [https://github.com/killxistcool/Automata-App](https://github.com/killxistcool/Automata-App)
